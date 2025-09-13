@@ -22,7 +22,7 @@ I love sharing knowledge, solving hard problems, and collaborating with ambitiou
 
 - Website / Portfolio: [qomar.fun](https://qomar.fun)  
 - LinkedIn: [your‑linkedin](https://www.linkedin.com/in/qomar)  
-- Twitter: [@yourhandle](https://twitter.com/qomar)  
+- Twitter: [@Qomar](https://twitter.com/qomar)  
 - Email: hikefrm@gmail.com  
 
 ---
