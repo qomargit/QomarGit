@@ -17,7 +17,7 @@ I love sharing knowledge, solving hard problems, and collaborating with ambitiou
 
 
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 - Website / Portfolio: [qomar.fun](https://qomar.fun)  
 - LinkedIn: [Qomar](https://www.linkedin.com/in/qomar)  
@@ -26,7 +26,7 @@ I love sharing knowledge, solving hard problems, and collaborating with ambitiou
 
 ---
 
-## 🎯 Why Work With Me
+##  Why Work With Me
 
 - Reliability & Professionalism: I deliver high‑quality work, on time.  
 - Partnership Mindset: I treat collaboration like growing together.  
@@ -34,7 +34,7 @@ I love sharing knowledge, solving hard problems, and collaborating with ambitiou
 
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 ![QomarGit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=QomarGit&show_icons=true&theme=radical)
 
