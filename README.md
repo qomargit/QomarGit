@@ -16,12 +16,11 @@ I love sharing knowledge, solving hard problems, and collaborating with ambitiou
 ---
 
 
----
 
 ## 📫 Let’s Connect
 
 - Website / Portfolio: [qomar.fun](https://qomar.fun)  
-- LinkedIn: [your‑linkedin](https://www.linkedin.com/in/qomar)  
+- LinkedIn: [Qomar](https://www.linkedin.com/in/qomar)  
 - Twitter: [@Qomar](https://twitter.com/qomar)  
 - Email: hikefrm@gmail.com  
 
