@@ -9,7 +9,7 @@
 I’m a highly skilled software developer with years of experience building scalable, clean, and efficient web & backend systems.  
 I love sharing knowledge, solving hard problems, and collaborating with ambitious teams and projects.  
 
-- **Languages & Frameworks:** JavaScript / TypeScript · Node.js · React · Next.js · Python · Django · Go  
+- **Languages & Frameworks:** JavaScript / TypeScript · Node.js · React · Next.js · Python · Django · Go  · Rust · Flutter
 - **DevOps & Infrastructure:** Docker · Kubernetes · AWS · CI/CD · Terraform  
 - **Databases & Storage:** PostgreSQL · MongoDB · Redis · GraphQL · REST APIs  
 
